@@ -19,7 +19,7 @@ SEARCH_WORDS = '亲爱的客栈'
 RANGE = '1-1' #集数范围
 
 FILE_SIZE = 1677
-STORE_PATH = '/Users/Ming/Documents/pycharm-projects/TencentVideo/ResultPackage'
+STORE_PATH = '/Users/Ming/Documents/pycharm-projects/TencentVideo/TencentVideo/ResultPackage'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'TencentVideo (+http://www.yourdomain.com)'
