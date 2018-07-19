@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2c94b05-e27d-4b6e-a520-415fc2dac3a8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/TencentVideo/TencentVideo/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TencentVideo/TencentVideo/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,14 +13,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6370135">
+    <splitter split-orientation="horizontal" split-proportion="0.66163623">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="tvcommentSP.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/spiders/tvcommentSP.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-261">
-                  <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+                <state relative-caret-position="293">
+                  <caret line="126" column="33" selection-start-line="126" selection-end-line="127" />
                   <folding>
                     <element signature="e#24#56#0" expanded="true" />
                   </folding>
@@ -31,8 +31,8 @@
           <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/pipelines.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
-                  <caret line="31" selection-start-line="31" selection-end-line="31" />
+                <state relative-caret-position="210">
+                  <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
                   <folding>
                     <element signature="e#193#202#0" expanded="true" />
                   </folding>
@@ -44,19 +44,19 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+                <state relative-caret-position="185">
+                  <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="items.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/items.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="202">
+                <state relative-caret-position="390">
                   <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
                 </state>
               </provider>
@@ -103,10 +103,10 @@
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/middlewares.py" />
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/start.py" />
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/test.py" />
-        <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py" />
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/items.py" />
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/pipelines.py" />
         <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/spiders/tvcommentSP.py" />
+        <option value="$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py" />
       </list>
     </option>
   </component>
@@ -217,15 +217,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18665607" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18665607" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46896553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2662069" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,6 +242,74 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/spiders/tvcommentSP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="124" column="37" selection-start-line="124" selection-end-line="125" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/spiders/tvcommentSP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -314,9 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="70" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="70" />
-          <folding>
-            <element signature="e#169#195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,13 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="2553" column="4" lean-forward="true" selection-start-line="2553" selection-start-column="4" selection-end-line="2553" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -357,37 +416,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="390">
           <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultPackage/2.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultPackage/1.txt" />
+    <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spiderenv/lib/python3.6/site-packages/pydispatch/dispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="210">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
             <element signature="e#193#202#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ResultPackage/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ResultPackage/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TencentVideo/TencentVideo/spiders/tvcommentSP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+        <state relative-caret-position="293">
+          <caret line="126" column="33" selection-start-line="126" selection-end-line="127" />
           <folding>
             <element signature="e#24#56#0" expanded="true" />
           </folding>
